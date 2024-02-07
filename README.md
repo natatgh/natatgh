@@ -3,7 +3,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=natatgh&show_icons=true&theme=radical)
 
 ## Sobre mim
-- Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+- 👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+- 🎓 Técnologo em Análise e Desenvolvimento de Sistemas.
+- 💼 Trabalhando como Analista Jr na [SX Negócios](https://www.linkedin.com/company/vemprasx/mycompany/).
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
@@ -15,6 +17,11 @@
     <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+## Projetos
+- [Pomodoro Task Manager](https://github.com/natatgh/pomodoro-task-manager): O Pomodoro Task Manager é um aplicativo de gerenciamento de tarefas projetado para ajudar os usuários a organizarem suas atividades diárias de forma eficiente. Com uma interface intuitiva e recursos práticos, o aplicativo permite que os usuários criem, editem e acompanhem suas tarefas de maneira simples e conveniente.
+
+- [Web Page dos filmes do Homem-Aranha](link_para_o_projeto_b): Um modelo de site em HTML, CSS e Javascript com diversas informações sobre a trilogia do Homem-Aranha.
 
 ## Encontre-me online
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nata_dsilva/)
