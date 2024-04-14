@@ -1,5 +1,7 @@
 # Olá! Eu sou o Natã Alexandre da Silva. 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=natatgh&show_icons=true&theme=radical)
+
 ## Sobre mim
 - 👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 - 🎓 Técnologo em Análise e Desenvolvimento de Sistemas.
@@ -25,5 +27,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nata_dsilva/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natatgh/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/syncgl)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=natatgh&show_icons=true&theme=radical)
