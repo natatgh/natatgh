@@ -4,7 +4,7 @@
 
 <h3 align="left">Sobre mim</h3>
 
-<p align="left">👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>💼 Trabalhando como Analista Pleno na <a href="https://www.linkedin.com/company/vemprasx/mycompany/" target="_blank">SX Negócios</a>.</p>
+<p align="left">👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>💼 Trabalhando como Analista Pleno na <a href="https://www.linkedin.com/company/vemprasx/mycompany/" target="_blank">SX Negócios</a>.<br>🌐 Idiomas: Inglês (Avançado), Espanhol (Básico).</p>
 
 ###
 
