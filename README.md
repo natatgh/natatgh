@@ -52,7 +52,7 @@
 ## Projetos
 - [Pomodoro Task Manager](https://github.com/natatgh/pomodoro-task-manager): O Pomodoro Task Manager é um aplicativo de gerenciamento de tarefas projetado para ajudar os usuários a organizarem suas atividades diárias de forma eficiente. Com uma interface intuitiva e recursos práticos, o aplicativo permite que os usuários criem, editem e acompanhem suas tarefas de maneira simples e conveniente.
 
-- [Web Page dos filmes do Homem-Aranha](https://webpage-spider-man.vercel.app/index.html)): Um modelo de site em HTML, CSS e Javascript com diversas informações sobre a trilogia do Homem-Aranha.
+- [Web Page dos filmes do Homem-Aranha](https://webpage-spider-man.vercel.app/index.html): Um modelo de site em HTML, CSS e Javascript com diversas informações sobre a trilogia do Homem-Aranha.
 
 ## Encontre-me online
   <a href="mailto:natatgh@gmail.com" target="_blank">
