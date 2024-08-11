@@ -1,117 +1,63 @@
-<h1 align="left">Olá! Eu sou o Natã Alexandre da Silva. 👋</h1>
+# Olá! Eu sou o Natã Alexandre da Silva. 👋
 
-###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=natatgh&show_icons=true&theme=radical)
 
-<h3 align="left">Sobre mim</h3>
+## Sobre mim
+- 👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+- 🎓 Técnologo em Análise e Desenvolvimento de Sistemas.
 
-<p align="left">👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br></p>
+## Tecnologias que eu uso no meu dia
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natatgh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natatgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+### Linguagens
+<div style="display: inline_block">
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+    <img align="center" alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
 </div>
 
-###
-
-<h3 align="left">Tecnologias que eu uso no meu dia</h3>
-
-#### Linguagens
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" height="40" alt="vba logo"  />
+## Frameworks
+<div style="display: inline_block">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+    <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff">
+    <img align="center" alt="DJango" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
 </div>
 
-#### Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express.js logo"  />
+## Bancos de Dados
+<div style="display: inline_block">
+    <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+    <img align="center" alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+    <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff">
 </div>
 
-#### Bancos de Dados
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+## Ferramentas e Tecnologias
+<div style="display: inline_block">
+  <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">
+  <img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
 </div>
 
-#### Ferramentas e Tecnologias
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<h3 align="left">Projetos</h3>
-
+## Projetos
 - [Pomodoro Task Manager](https://github.com/natatgh/pomodoro-task-manager): O Pomodoro Task Manager é um aplicativo de gerenciamento de tarefas projetado para ajudar os usuários a organizarem suas atividades diárias de forma eficiente. Com uma interface intuitiva e recursos práticos, o aplicativo permite que os usuários criem, editem e acompanhem suas tarefas de maneira simples e conveniente.
 
-- [Web Page dos filmes do Homem-Aranha](https://webpage-spider-man.vercel.app/index.html): Um modelo de site em HTML, CSS e Javascript com diversas informações sobre a trilogia do Homem-Aranha.
+- [Web Page dos filmes do Homem-Aranha](https://webpage-spider-man.vercel.app/index.html)): Um modelo de site em HTML, CSS e Javascript com diversas informações sobre a trilogia do Homem-Aranha.
 
-###
-
-<h3 align="left">Encontre-me online</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/natatgh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:natatgh@outlook.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+## Encontre-me online
   <a href="mailto:natatgh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/nata_dsilva/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
-  </a>
-</div>
-
-###
+<a href="https://www.linkedin.com/in/natatgh/" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" width="52" height="40" alt="linkedin logo"  />
+</a>
