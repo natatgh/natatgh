@@ -85,7 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -119,5 +118,5 @@
 
 <!-- Substitua a linha da animação da cobra por uma das alternativas -->
 
-<!-- Por exemplo, se você optar pela GitHub Contributions Calendar Heatmap: -->
+<!-- GitHub Contributions Calendar Heatmap -->
 ![GitHub Contributions](https://github-contributions.vercel.app/api/calendar?username=natatgh)
