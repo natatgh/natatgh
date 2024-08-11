@@ -115,8 +115,3 @@
 </div>
 
 ###
-
-<!-- Substitua a linha da animação da cobra por uma das alternativas -->
-
-<!-- GitHub Contributions Calendar Heatmap -->
-![GitHub Contributions](https://github-contributions.vercel.app/api/calendar?username=natatgh)
