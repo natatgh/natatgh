@@ -4,7 +4,7 @@
 
 <h3 align="left">Sobre mim</h3>
 
-<p align="left">👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>💼 Trabalhando como Analista Pleno na <a href="https://www.linkedin.com/company/vemprasx/mycompany/" target="_blank">SX Negócios</a>.<br>🌐 Idiomas: Inglês (Avançado), Espanhol (Básico).</p>
+<p align="left">👨‍💻 Desenvolvedor de software apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.<br></p>
 
 ###
 
@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vba/vba-original.svg" height="40" alt="vba logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" height="40" alt="vba logo"  />
 </div>
 
 #### Frameworks
@@ -55,8 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" height="40" alt="tkinter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
@@ -88,13 +86,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" height="40" alt="adobe logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" height="40" alt="scrum logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kanban/kanban-original.svg" height="40" alt="kanban logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/office/office-original.svg" height="40" alt="office logo"  />
 </div>
 
 ###
