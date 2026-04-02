@@ -29,7 +29,7 @@ Atuo principalmente com **JavaScript/TypeScript, Python, React, Node.js e SQL**,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,nestjs,nextjs,flask,django,electron,postgres,mysql,mongodb,sqlite,oracle,prisma,docker,git,github,gitlab,aws,firebase,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,nestjs,nextjs,flask,django,electron,postgres,mysql,mongodb,sqlite,oracle,prisma,docker,git,github,gitlab,aws,firebase,postman,vscode&perline=14" />
   </a>
 </p>
 
